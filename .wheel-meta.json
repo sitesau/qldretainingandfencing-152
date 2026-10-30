@@ -1,0 +1,22 @@
+{
+  "wheel_id": 523,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-152",
+  "project": "retaining-wall-installation-brisbane-how-to-choose-c778b808d",
+  "parent_t1_ref": "qldretainingandfencing-006",
+  "node_role": "buffer",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane how to choose",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-installation-brisbane-how-to-choose-c778b808d/",
+  "tier": "T2",
+  "writeback_nonce": "737ec076c7fb9780",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-installation-brisbane-qldretainingandfenc-aa1270.gitlab.io/",
+      "anchor": "Retaining Wall Installation Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
